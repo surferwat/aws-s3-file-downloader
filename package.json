@@ -1,0 +1,15 @@
+{
+  "name": "aws-s3-file-downloader",
+  "version": "0.0.0",
+  "description": "download file from aws s3 from client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "surferwat",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "typescript": "^4.2.3"
+  }
+}
