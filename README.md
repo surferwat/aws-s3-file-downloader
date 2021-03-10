@@ -7,7 +7,7 @@ A program to download a file from AWS S3 directly from a web or mobile applicati
 Step 1: Clone the repo
 
 ```
-git clone https://github.com/surferwat/aws-s3-file-downloadloader.git
+git clone https://github.com/surferwat/aws-s3-file-downloader.git
 ```
 
 Step 2: Install the module
