@@ -1,6 +1,6 @@
 {
   "name": "aws-s3-file-downloader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "download file from aws s3 from client",
   "main": "index.js",
   "scripts": {
