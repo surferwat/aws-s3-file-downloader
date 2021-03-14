@@ -10,7 +10,13 @@ Step 1: Clone the repo
 git clone https://github.com/surferwat/aws-s3-file-downloader.git
 ```
 
-Step 2: Install the module
+Step 2: Install dependencies
+
+```
+npm install
+```
+
+Step 3: Go to app and install the module
 ```
 npm install /file/path/to/module
 ```
